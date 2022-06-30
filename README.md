@@ -1,6 +1,6 @@
 # VmSec
 
-![team-vmsec](README.assets/team-vmsec.svg)![version-1.0](README.assets/version-1.0.svg)![license-gpl-3.0](README.assets/license-gpl-3.0.svg)![last-update-july-2022](README.assets/last-update-july-2022.svg)
+![team-vmsec](README.assets/team-vmsec.svg)  ![version-1.0](README.assets/version-1.0.svg)  ![license-gpl-3.0](README.assets/license-gpl-3.0.svg)  ![last-update-july-2022](README.assets/last-update-july-2022.svg)
 
 ![preview](README.assets/v2-c14c45421044a35e134b8f8ccbc577f4_r.jpg)
 
