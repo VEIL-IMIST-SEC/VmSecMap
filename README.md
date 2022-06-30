@@ -4,7 +4,12 @@
 
 一个为广大安全人员整合的知识框架，目前会涉及到Web安全、Java安全研究、红蓝对抗、应急响应、APP、SRC、CTF等，持续更新，欢迎提issues。
 
-![TEAM-VmSec-brightgreen](README.assets/TEAM-VmSec-brightgreen.svg)  ![last--update](README.assets/lastu.svg)  ![1](README.assets/1.svg)
+<p align="center">
+<img src="https://img.shields.io/travis/onevcat/Kingfisher/master.svg">
+<img src="https://img.shields.io/badge/TEAM-VmSec-4BC51D.svg?style=flat">
+<img src="https://img.shields.io/badge/License-GPL_3.0-4BC51D.svg?style=flat">
+<img src="https://img.shields.io/badge/last_update-July_2022-4BC51D.svg?style=flat">
+</p>
 
 ## WHOAMI
 
