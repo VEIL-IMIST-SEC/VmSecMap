@@ -1,6 +1,6 @@
 # VmSec
 
-![Packagist Stars](README.assets/VmSecMap-20220630202209994)
+![AppVeyor branch](README.assets/main)
 
 ![preview](README.assets/v2-c14c45421044a35e134b8f8ccbc577f4_r.jpg)
 
